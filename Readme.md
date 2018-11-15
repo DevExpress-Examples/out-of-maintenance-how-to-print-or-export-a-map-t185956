@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/MapControl_PrintingExporting/Form1.cs) (VB: [Form1.vb](./VB/MapControl_PrintingExporting/Form1.vb))
+<!-- default file list end -->
 # How to: print or export a map
 
 
